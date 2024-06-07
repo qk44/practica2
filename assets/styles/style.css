@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Ubuntu';
+    color: #FFF5EE;
+}
+
+body {
+    overflow-x: hidden;
+    background: gray;
+    width: 100vw;
+}
+
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("../font/UbuntuCondensed-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Zen";
+    src: url("../font/ZenKurenaido-Regular.ttf");
+}
+
+.z {
+    font-size: 26px;
+    font-family: "Zen";
+}
+
+.t-96 {
+    font-size: 88px;
+    margin-left: -6px;
+}
+
+.t-64 {
+    font-size: 58px;
+}
+
+.t-40 {
+    font-size: 34px;
+}
+
+.t-28 {
+    font-size: 24px;
+}
+
+.t-24 {
+    font-size: 22px;
+}
+
+
+.t-20 {
+    font-size: 18px;
+}
+
+
+
+
+.container {
+    margin: 0 auto;
+    width: 1160px;
+}
+
+.container2 {
+    margin: 0 auto;
+    width: 1360px;
+}
+
+
+
+header .section-head {
+    height: 70px;
+    background: linear-gradient(to right, rgba(33, 33, 33, 1), rgba(47, 0, 0, 1));
+}
+
+header .section-head .container2 {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header .section-head .container2 .logo {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    text-align: center;
+}
+
+header .section-head .container2 .logo .log {
+    background: url("../img/Rectangle\ 30.png");
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header .section-head .container2 .links {
+    display: flex;
+    gap: 20px;
+}
