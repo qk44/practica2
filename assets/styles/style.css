@@ -197,3 +197,89 @@ main .section-skills .container .left .t3 {
     flex-direction: column;
     gap: 10px;
 }
+
+main .section-projects {
+    padding: 140px 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.56), rgba(0, 0, 0, 0.5)), url("../img/1675487815_gas-kvas-com-p-fonovie-risunki-na-rabochii-stol-full-hd-17.jpg");
+}
+
+main .section-projects .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+main .section-projects .container .main {
+    display: flex;
+    gap: 40px;
+}
+
+main .section-projects .container .main .card {
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+main .section-projects .container .main .card .text-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border: 1px solid #FFF5EE;
+    border-radius: 20px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+main .section-projects .container .main .card .text-img .t-24 {
+    width: 280px;
+}
+
+main .section-projects .container .main .card .text-img .img1 {
+    background-image: linear-gradient(rgba(214, 0, 0, 0.192), rgba(156, 5, 5, 0)), url("../img/Rectangle\ 13.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 360px;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background-position: center;
+}
+
+main .section-projects .container .main .card .text-img .img2 {
+    background-image: linear-gradient(rgba(163, 8, 8, 0.219), rgba(0, 0, 0, 0)), url("../img/Rectangle\ 12.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    width: 360px;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background-position: center;
+
+}
+
+main .section-projects .container .main .card .text-img .img3 {
+    background-image: linear-gradient(rgba(146, 1, 1, 0.233), rgba(0, 0, 0, 0)), url("../img/Rectangle\ 11.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    width: 360px;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    background-position: center;
+
+}
+
+main .section-projects .container .main .card button {
+    border: 1px solid #FFF5EE;
+    width: 200px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 14px;
+    margin-top: 10px;
+}
