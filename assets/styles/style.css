@@ -463,3 +463,1026 @@ footer .section-contacts .container .cards .card1 .img3 {
     width: 35px;
     height: 35px;
 }
+
+
+@media (max-width: 1500px) {
+    .container {
+        width: 1020px;
+    }
+    .container2 {
+        width: 1120px;
+    }
+
+    .z {
+        font-size: 20px;
+        font-family: "Zen";
+    }
+
+    .t-96 {
+        font-size: 78px;
+        margin-left: -4px;
+    }
+
+    .t-64 {
+        font-size: 50px;
+    }
+
+    .t-40 {
+        font-size: 32px;
+    }
+
+    .t-28 {
+        font-size: 22px;
+    }
+
+    .t-24 {
+        font-size: 20px;
+    }
+    .t-244 {
+        font-size: 18px;
+    }
+
+
+    .t-20 {
+        font-size: 18px;
+    }
+
+
+
+    header .section-head .container2 .logo .log {
+        width: 34px;
+        height: 34px;
+    }
+
+    header .section-head .container2 .links {
+        gap: 14px;
+    }
+
+    main .section-main .container {
+        padding: 120px 0;
+    }
+
+    main .section-main .container .left button {
+        height: 38px;
+    }
+
+    main .section-main .container .right {
+        width: 380px;
+        height: 480px;
+        
+    }
+
+    main .section-skills {
+        padding: 120px 0px;
+    }
+
+    main .section-skills .container .left {
+        width: 450px;
+    }
+
+    main .section-skills .container .left .t1 {
+        width: 370px;
+        height: 78px;
+    }
+
+    main .section-skills .container .left .t2 {
+        width: 280px;
+    }
+
+    main .section-skills .container .left .t3 {
+        width: 280px; 
+    }
+    main .section-skills .container .left .t3 .tt{
+        margin-top: 36px;
+    }
+
+    main .section-projects {
+        padding: 120px 0;
+    }
+
+    main .section-projects .container .main .card {
+        width: 310px;
+        gap: 24px;
+    }
+
+    main .section-projects .container .main .card .text-img {
+        gap: 16px;
+        width: 310px;
+    }
+
+    main .section-projects .container .main .card .text-img .t-24 {
+        width: 280px;
+    }
+
+    main .section-projects .container .main .card .text-img .img1 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img2 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img3 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card button {
+        width: 180px;
+        height: 45px;
+        margin-top: 0px;
+    }
+
+    main .section-career {
+        padding: 120px 0px;
+    }
+
+    main .section-career .container .right button {
+        margin-top: 30px;
+    }
+
+
+    main .section-career .container .left {
+        
+        width: 480px;
+    }
+
+    main .section-career .container .left .img1 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img2 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img3 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img4 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .right {
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+    }
+    
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 780px;
+    }
+    .container2 {
+        width: 840px;
+    }
+    .z {
+        font-size: 20px;
+        font-family: "Zen";
+    }
+    .t-244 {
+        font-size: 16px;
+    }
+    
+    .t-96 {
+        font-size: 76px;
+        margin-left: -4px;
+    }
+    
+    .t-64 {
+        font-size: 48px;
+    }
+    
+    .t-40 {
+        font-size: 30px;
+    }
+    
+    .t-28 {
+        font-size: 22px;
+    }
+    
+    .t-24 {
+        font-size: 20px;
+    }
+    
+    
+    .t-20 {
+        font-size: 16px;
+    }
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+    main .section-main {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.56), rgba(0, 0, 0, 0.5)), url("../img/orig-_1_.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    
+    }
+    
+    
+    main .section-main .container {
+        display: flex;
+        padding: 100px 0;
+        justify-content: space-between;
+    }
+    
+    main .section-main .container .left {
+        width: 330px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        padding: 40px 0;
+    
+    }
+    
+    main .section-main .container .left .m-h .t-40 {
+        margin-top: -8px;
+    }
+    
+    main .section-main .container .left button {
+        border: 1px solid #FFF5EE;
+        width: 150px;
+        height: 42px;
+        background: rgba(0, 0, 0, 0);
+        border-radius: 6px;
+        margin-top: 20px;
+    
+    }
+    
+    main .section-main .container .right {
+        width: 300px;
+        height: 380px;
+        background-image: linear-gradient(rgba(75, 0, 0, 0.473), rgba(77, 1, 1, 0.137)), url("../img/943ead56-e164-462c-9ae2-0c80b8ace288.jpg");
+        border-radius: 40px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.99;
+        background-position: center;
+    }
+    
+
+
+
+    main .section-skills {
+        padding: 100px 0px;
+    }
+    
+    main .section-skills .container {
+        flex-direction: column;
+        align-items: center;
+        gap: 100px;
+    }
+    
+    main .section-skills .container .left {
+        gap: 20px;
+    }
+    
+    main .section-skills .container .left .t3 .tt{
+        margin-top: 0;
+    }
+    
+    
+    main .section-projects {
+        padding: 100px 0;
+    }
+    
+    main .section-projects .container {
+        gap: 50px;
+    }
+    
+    main .section-projects .container .main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    main .section-projects .container .main .card {
+        gap: 2px;
+    }
+    
+    main .section-projects .container .main .card .text-img {
+        width: 360px;
+    }
+    
+    main .section-projects .container .main .card .text-img .t-24 {
+        width: 280px;
+    }
+     main .section-projects .container .main .card .text-img .img1 {
+        background-image: linear-gradient(rgba(214, 0, 0, 0.192), rgba(156, 5, 5, 0)), url("../img/Rectangle\ 13.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 360px;
+        height: 300px;
+        border-radius: 20px;
+        margin-top: 40px;
+        background-position: center;
+    }
+    
+    main .section-projects .container .main .card .text-img .img2 {
+        background-image: linear-gradient(rgba(163, 8, 8, 0.219), rgba(0, 0, 0, 0)), url("../img/Rectangle\ 12.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        width: 360px;
+        height: 300px;
+        border-radius: 20px;
+        margin-top: 40px;
+        background-position: center;
+    
+    }
+    
+    main .section-projects .container .main .card .text-img .img3 {
+        background-image: linear-gradient(rgba(146, 1, 1, 0.233), rgba(0, 0, 0, 0)), url("../img/Rectangle\ 11.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        width: 360px;
+        height: 300px;
+        border-radius: 20px;
+        margin-top: 40px;
+        background-position: center;
+    
+    }
+    
+    main .section-projects .container .main .card button {
+        border: 1px solid #FFF5EE;
+        width: 200px;
+        height: 50px;
+        background: rgba(0, 0, 0, 0);
+        border-radius: 14px;
+        margin-top: 10px;
+    }
+   
+    
+    main .section-career {
+        padding: 100px 0px;
+        background: linear-gradient(to right, rgba(33, 33, 33, 1), rgba(47, 0, 0, 1));
+    }
+    
+    main .section-career .container .right button {
+        border: 1px solid #FFF5EE;
+        width: 150px;
+        height: 42px;
+        background: rgba(0, 0, 0, 0);
+        border-radius: 6px;
+        margin-top: 30px;
+    }
+    
+    main .section-career .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    
+    main .section-career .container .left {
+        display: flex;
+        width: 540px;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    
+    main .section-career .container .left .img1 {
+        width: 260px;
+        height: 260px;
+        border-radius: 20px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.432), rgba(0, 0, 0, 0.089)), url("../img/man-developing-photos-high-angle.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    main .section-career .container .left .img2 {
+        width: 260px;
+        height: 260px;
+        background: rebeccapurple;
+        border-radius: 20px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.329), rgba(0, 0, 0, 0.089)), url("../img/working-from-home-ergonomic-workstation.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    main .section-career .container .left .img3 {
+        width: 260px;
+        height: 260px;
+        background: rebeccapurple;
+        border-radius: 20px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.089)), url("../img/young-adult-enjoying-playing-video-game_23-2149249997.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    main .section-career .container .left .img4 {
+        width: 260px;
+        height: 260px;
+        background: rebeccapurple;
+        border-radius: 20px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.349), rgba(0, 0, 0, 0.089)), url("../img/caucasian-man-s-portrait-isolated-gradient-studio.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    main .section-career .container .right {
+        width: 500px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    
+    }
+    
+    main .section-feedback {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.493)), url("../img/1675487815_gas-kvas-com-p-fonovie-risunki-na-rabochii-stol-full-hd-17.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 100px 0;
+    }
+    
+    main .section-feedback .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+        
+    }
+    
+    main .section-feedback .container .forms {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        width: 500px;
+        padding: 40px 0;
+        border: 1px solid #FFF5EE;
+        border-radius: 20px;
+        align-items: center;
+    }
+    
+    main .section-feedback .container .forms .name {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    main .section-feedback .container .forms .name .in input {
+        width: 400px;
+        border: 1px solid #FFF5EE;
+        border-radius: 10px;
+        height: 50px;
+        padding-left: 10px;
+        background: rgba(0, 0, 0, 0);
+    }
+    
+    main .section-feedback .container .forms button {
+        border: 1px solid #FFF5EE;
+        width: 270px;
+        height: 48px;
+        background: rgba(0, 0, 0, 0);
+        border-radius: 6px;
+        margin-top: 26px;
+    }
+    
+    footer .section-contacts {
+        background: rgba(17, 17, 17, 1);
+        padding: 40px 0 10px 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    footer .section-contacts .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        
+    }
+    
+    footer .section-contacts .container .cards {
+        display: flex;
+        gap: 40px;
+    }
+    
+    footer .section-contacts .container .cards .card1 {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img1 {
+        background: url("../img/Rectangle\ 27.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img2 {
+        background: url("../img/Rectangle\ 29.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img3 {
+        background: url("../img/Rectangle\ 28.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+
+  
+}
+
+
+@media (max-width: 900px) {
+    .container {
+        width: 480px;
+    }
+    .container2 {
+        width: 520px;
+    }
+    .z {
+        font-size: 16px;
+        font-family: "Zen";
+    }
+
+    .t-96 {
+        font-size: 78px;
+        margin-left: -4px;
+    }
+
+    .t-64 {
+        font-size: 50px;
+    }
+
+    .t-40 {
+        font-size: 32px;
+    }
+
+    .t-28 {
+        font-size: 22px;
+    }
+
+    .t-24 {
+        font-size: 20px;
+    }
+    .t-244 {
+        font-size: 14px;
+    }
+
+
+    .t-20 {
+        font-size: 18px;
+    }
+
+
+
+    header .section-head .container2 .logo .log {
+        width: 28px;
+        height: 28px;
+    }
+
+    header .section-head .container2 .links {
+        gap: 14px;
+    }
+
+    main .section-main .container {
+        padding: 120px 0;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    main .section-main .container .left button {
+        height: 38px;
+    }
+
+    main .section-main .container .right {
+        width: 380px;
+        height: 480px;
+        
+    }
+
+    main .section-skills {
+        padding: 120px 0px;
+    }
+
+    main .section-skills .container .left {
+        width: 450px;
+    }
+
+    main .section-skills .container .left .t1 {
+        width: 370px;
+        height: 78px;
+    }
+
+    main .section-skills .container .left .t2 {
+        width: 280px;
+    }
+
+    main .section-skills .container .left .t3 {
+        width: 280px; 
+    }
+    main .section-skills .container .left .t3 .tt{
+        margin-top: 36px;
+    }
+
+    main .section-projects {
+        padding: 120px 0;
+    }
+
+    main .section-projects .container .main .card {
+        width: 310px;
+        gap: 24px;
+    }
+
+    main .section-projects .container .main .card .text-img {
+        gap: 16px;
+        width: 310px;
+    }
+
+    main .section-projects .container .main .card .text-img .t-24 {
+        width: 280px;
+    }
+
+    main .section-projects .container .main .card .text-img .img1 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img2 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img3 {
+        width: 310px;
+        height: 260px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card button {
+        width: 180px;
+        height: 45px;
+        margin-top: 0px;
+    }
+
+    main .section-career {
+        padding: 120px 0px;
+    }
+
+    main .section-career .container .right button {
+        margin-top: 30px;
+    }
+
+
+    main .section-career .container .left {
+        
+        width: 480px;
+    }
+
+    main .section-career .container .left .img1 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img2 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img3 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img4 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .right {
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+    }
+    
+}
+
+
+@media (max-width: 590px) {
+    .container {
+        width: 280px;
+    }
+    .container2 {
+        width: 300px;
+    }
+    .z {
+        font-size: 11px;
+        font-family: "Zen";
+    }
+
+    .t-96 {
+        font-size: 60px;
+        margin-left: -3px;
+    }
+
+    .t-64 {
+        font-size: 40px;
+    }
+
+    .t-40 {
+        font-size: 26px;
+    }
+
+    .t-28 {
+        font-size: 18px;
+    }
+
+    .t-24 {
+        font-size: 16px;
+    }
+    .t-244 {
+        font-size: 9px;
+    }
+
+
+    .t-20 {
+        font-size: 14px;
+    }
+
+    header .section-head{
+        height: 40px;
+
+    }
+    header .section-head .container2{
+        height: 40px;
+    }
+    header .section-head .container2 .logo{
+        gap: 4px;
+    }
+    header .section-head .container2 .logo .log {
+        width: 22px;
+        height: 22px;
+    }
+
+    header .section-head .container2 .links {
+        gap: 6px;
+    }
+
+    main .section-main .container {
+        padding: 60px 0;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    main .section-main .container .left button {
+        height: 38px;
+    }
+    main .section-main .container .left{
+        width: 280px;
+    }
+
+    main .section-main .container .right {
+        width: 280px;
+        height: 360px;
+        
+    }
+
+    main .section-skills {
+        padding: 60px 0px;
+    }
+
+    main .section-skills .container .left {
+        width: 280px;
+    }
+
+    main .section-skills .container .left .t1 {
+        width: 280px;
+        height: 78px;
+    }
+
+    main .section-skills .container .left .t2 {
+        width: 280px;
+    }
+
+    main .section-skills .container .left .t3 {
+        width: 280px; 
+    }
+    main .section-skills .container .left .t3 .tt{
+        margin-top: 0px;
+    }
+
+    main .section-projects {
+        padding: 80px 0;
+    }
+
+    main .section-projects .container .main .card {
+        width: 280px;
+        gap: 24px;
+    }
+
+    main .section-projects .container .main .card .text-img {
+        gap: 16px;
+        width: 280px;
+    }
+
+    main .section-projects .container .main .card .text-img .t-24 {
+        width: 230px;
+    }
+
+    main .section-projects .container .main .card .text-img .img1 {
+        width: 280px;
+        height: 240px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img2 {
+        width: 280px;
+        height: 240px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card .text-img .img3 {
+        width: 280px;
+        height: 240px;
+        margin-top: 20px;
+    }
+
+    main .section-projects .container .main .card button {
+        width: 180px;
+        height: 45px;
+        margin-top: -10px;
+    }
+
+    main .section-career {
+        padding: 60px 0px;
+    }
+
+    main .section-career .container .right button {
+        margin-top: 20px;
+    }
+
+
+    main .section-career .container .left {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main .section-career .container .left .img1 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img2 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img3 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .left .img4 {
+        width: 230px;
+        height: 230px;
+    }
+
+    main .section-career .container .right {
+        width: 280px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+    }
+    main .section-feedback {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.493)), url("../img/1675487815_gas-kvas-com-p-fonovie-risunki-na-rabochii-stol-full-hd-17.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 60px 0;
+    }
+    
+    main .section-feedback .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        
+    }
+    
+    main .section-feedback .container .forms {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 280px;
+        padding: 30px 0;
+        border: 1px solid #FFF5EE;
+        border-radius: 20px;
+        align-items: center;
+    }
+    
+    main .section-feedback .container .forms .name {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    main .section-feedback .container .forms .name .in input {
+        width: 240px;
+        border: 1px solid #FFF5EE;
+        border-radius: 10px;
+        height: 36px;
+        padding-left: 10px;
+        background: rgba(0, 0, 0, 0);
+    }
+    
+    main .section-feedback .container .forms button {
+        border: 1px solid #FFF5EE;
+        width: 170px;
+        height: 34px;
+        background: rgba(0, 0, 0, 0);
+        border-radius: 6px;
+        margin-top: 26px;
+    }
+    
+    footer .section-contacts {
+        background: rgba(17, 17, 17, 1);
+        padding: 36px 0 12px 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    footer .section-contacts .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        
+    }
+    
+    footer .section-contacts .container .cards {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    footer .section-contacts .container .cards .card1 {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img1 {
+        background: url("../img/Rectangle\ 27.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img2 {
+        background: url("../img/Rectangle\ 29.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+    
+    footer .section-contacts .container .cards .card1 .img3 {
+        background: url("../img/Rectangle\ 28.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 35px;
+        height: 35px;
+    }
+}
