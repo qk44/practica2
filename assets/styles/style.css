@@ -362,3 +362,54 @@ main .section-career .container .right {
     gap: 40px;
 
 }
+
+main .section-feedback {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.493)), url("../img/1675487815_gas-kvas-com-p-fonovie-risunki-na-rabochii-stol-full-hd-17.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 140px;
+}
+
+main .section-feedback .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    
+}
+
+main .section-feedback .container .forms {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 500px;
+    padding: 40px 0;
+    border: 1px solid #FFF5EE;
+    border-radius: 20px;
+    align-items: center;
+}
+
+main .section-feedback .container .forms .name {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+main .section-feedback .container .forms .name .in input {
+    width: 400px;
+    border: 1px solid #FFF5EE;
+    border-radius: 10px;
+    height: 50px;
+    padding-left: 10px;
+    background: rgba(0, 0, 0, 0);
+}
+
+main .section-feedback .container .forms button {
+    border: 1px solid #FFF5EE;
+    width: 270px;
+    height: 48px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 6px;
+    margin-top: 26px;
+}
