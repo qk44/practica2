@@ -413,3 +413,53 @@ main .section-feedback .container .forms button {
     border-radius: 6px;
     margin-top: 26px;
 }
+
+footer .section-contacts {
+    background: rgba(17, 17, 17, 1);
+    padding: 50px 0 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+footer .section-contacts .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+footer .section-contacts .container .cards {
+    display: flex;
+    gap: 40px;
+}
+
+footer .section-contacts .container .cards .card1 {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+footer .section-contacts .container .cards .card1 .img1 {
+    background: url("../img/Rectangle\ 27.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+
+footer .section-contacts .container .cards .card1 .img2 {
+    background: url("../img/Rectangle\ 29.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+
+footer .section-contacts .container .cards .card1 .img3 {
+    background: url("../img/Rectangle\ 28.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
