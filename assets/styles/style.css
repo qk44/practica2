@@ -105,3 +105,53 @@ header .section-head .container2 .links {
     display: flex;
     gap: 20px;
 }
+
+
+main .section-main {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.56), rgba(0, 0, 0, 0.5)), url("../img/orig-_1_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+main .section-main .container {
+    display: flex;
+    padding: 140px 0;
+    justify-content: space-between;
+}
+
+main .section-main .container .left {
+    width: 440px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 100px 0;
+
+}
+
+main .section-main .container .left .m-h .t-40 {
+    margin-top: -8px;
+}
+
+main .section-main .container .left button {
+    border: 1px solid #FFF5EE;
+    width: 150px;
+    height: 42px;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 6px;
+    margin-top: 30px;
+
+}
+
+main .section-main .container .right {
+    width: 460px;
+    height: 550px;
+    background-image: linear-gradient(rgba(75, 0, 0, 0.473), rgba(77, 1, 1, 0.137)), url("../img/943ead56-e164-462c-9ae2-0c80b8ace288.jpg");
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.99;
+    background-position: center;
+}
